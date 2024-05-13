@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\controllers\\bouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\controllers\\bouquetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\messages\\fetch_msg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\messages\\fetch_msg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\bouquet\\showbqt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\bouquet\\showbqt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\customer\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\customer\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\customer\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\customer\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\bouquet\\detailpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\bouquet\\detailpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\customer\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\customer\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\customer\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\customer\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\orders\\fetchorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\orders\\fetchorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|d:\\document\\project\\asp.net ecommerce\\e-project floral\\project\\project\\migrations\\20240512222114_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2BC40A-4253-4518-B973-60A722978A3F}|Project\\Project.csproj|solutionrelative:project\\migrations\\20240512222114_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Project\\appsettings.json",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\appsettings.json",
+              "RelativeToolTip": "Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T20:41:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Showbqt.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Bouquet\\Showbqt.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Bouquet\\Showbqt.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Bouquet\\Showbqt.cshtml",
+              "RelativeToolTip": "Project\\Views\\Bouquet\\Showbqt.cshtml",
+              "ViewState": "AQIAABEAAAA4AAAAAABBwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fetch_msg.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Messages\\fetch_msg.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Messages\\fetch_msg.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Messages\\fetch_msg.cshtml",
+              "RelativeToolTip": "Project\\Views\\Messages\\fetch_msg.cshtml",
+              "ViewState": "AQIAABMAAADgyczMzMwnwCcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\MessagesController.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Project\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Project\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Customer\\Contact.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Contact.cshtml",
+              "RelativeToolTip": "Project\\Views\\Customer\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Message.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Models\\Message.cs",
+              "RelativeToolTip": "Project\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BouquetController.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\BouquetController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\BouquetController.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\BouquetController.cs",
+              "RelativeToolTip": "Project\\Controllers\\BouquetController.cs",
+              "ViewState": "AQIAACYAAAAAVjMzMzPzvy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAA+P////8gwDsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\About.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Customer\\About.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\About.cshtml",
+              "RelativeToolTip": "Project\\Views\\Customer\\About.cshtml",
+              "ViewState": "AQIAAD4AAACgAQAAAABBwEIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "myContext.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Data\\myContext.cs",
+              "RelativeDocumentMoniker": "Project\\Data\\myContext.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Data\\myContext.cs",
+              "RelativeToolTip": "Project\\Data\\myContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240512222114_Message.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Migrations\\20240512222114_Message.cs",
+              "RelativeDocumentMoniker": "Project\\Migrations\\20240512222114_Message.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Migrations\\20240512222114_Message.cs",
+              "RelativeToolTip": "Project\\Migrations\\20240512222114_Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Project\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detailpage.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Bouquet\\Detailpage.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Bouquet\\Detailpage.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Bouquet\\Detailpage.cshtml",
+              "RelativeToolTip": "Project\\Views\\Bouquet\\Detailpage.cshtml",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAkwHEBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Customer\\Gallery.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Gallery.cshtml",
+              "RelativeToolTip": "Project\\Views\\Customer\\Gallery.cshtml",
+              "ViewState": "AQIAAGgAAACALjMzMzMLwHsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Home.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Customer\\Home.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Customer\\Home.cshtml",
+              "RelativeToolTip": "Project\\Views\\Customer\\Home.cshtml",
+              "ViewState": "AQIAAGMBAAAA1mZmZmYkwHoBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_homelayout.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Shared\\_homelayout.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Shared\\_homelayout.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Shared\\_homelayout.cshtml",
+              "RelativeToolTip": "Project\\Views\\Shared\\_homelayout.cshtml",
+              "ViewState": "AQIAAP8AAAAAUDMzMzP7v+sAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Cart\\cart.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Cart\\cart.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Cart\\cart.cshtml",
+              "RelativeToolTip": "Project\\Views\\Cart\\cart.cshtml",
+              "ViewState": "AQIAAAoAAAAAQjMzMzMrwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Order.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Models\\Order.cs",
+              "RelativeToolTip": "Project\\Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAgMzMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Project\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABwAAAAA/v////8twBIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:38:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fetchOrder.cshtml",
+              "DocumentMoniker": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Orders\\fetchOrder.cshtml",
+              "RelativeDocumentMoniker": "Project\\Views\\Orders\\fetchOrder.cshtml",
+              "ToolTip": "D:\\Document\\Project\\Asp.net ecommerce\\E-Project Floral\\Project\\Project\\Views\\Orders\\fetchOrder.cshtml",
+              "RelativeToolTip": "Project\\Views\\Orders\\fetchOrder.cshtml",
+              "ViewState": "AQIAAEMAAAAAyczMzMwwwNoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T20:38:46.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
